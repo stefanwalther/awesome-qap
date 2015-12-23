@@ -1,4 +1,4 @@
-**sammler** is licensed under the MIT License:
+**awesome-qliksense-integration** is licensed under the MIT License:
 
 > The MIT License (MIT)
 >
