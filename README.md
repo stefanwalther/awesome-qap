@@ -5,14 +5,14 @@ Contributions are not only always welcome but the entire idea behind this lis!
 Please take a look at the [contribution guidelines and quality standard](https://github.com/stefanwalther/awesome-qliksense-integration/blob/master/CONTRIBUTING.md) page first.
 
 - [Integration Overview](#integration-overview)
+- [Visualization Extensions](#visualization-extensions)
+- [Visualization Extension Development](#visualization-extension-development)
 
 ## Integration Overview
 
 ## Visualization Extensions
 
 ## Visualization Extension Development
-
-
 
 ## Engine API
 
