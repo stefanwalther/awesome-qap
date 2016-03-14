@@ -52,6 +52,8 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Using Header Authentication](http://qliksite.io/qlik-sense/header-authentication-configuration/) - A step-by-step guide how to set up and use header authentication.
 - [qlik-auth](https://github.com/braathen/qlik-auth) - Node.js library to simplify custom authentication with both QlikView and Qlik Sense.
 - [qlik-auth-net](https://github.com/braathen/qlik-auth-net) - Asp.net module for simplifying custom authentication with Qlik Sense.
+- [qlik-auth-google](https://github.com/braathen/qlik-auth-google) - Qlik Sense OAuth2 authentication module designed specifically for Google services.
+- [qlikoauth](https://github.com/braathen/qlikoauth) - Demonstration using OAuth 2.0 for QlikView and Qlik Sense integration.
 
 ## Connectivity
 
