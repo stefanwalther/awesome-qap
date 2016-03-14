@@ -10,6 +10,10 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ## Integration Overview
 
+## Mashup API
+
+- [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
+
 ## Visualization Extensions
 
 ## Visualization Extension Development
