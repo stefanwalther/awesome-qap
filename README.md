@@ -14,9 +14,14 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 - [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
 
+## Visualization API
+- [The Visualization API - An Overview](http://branch.qlik.com/#/blog/56cc5f2af9e755b0dd301559)
+
 ## Visualization Extensions
 
 ## Visualization Extension Development
+
+
 
 ## Engine API
 
