@@ -20,7 +20,9 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ## Engine API
 
-Awesome examples how to use the Qlik Engine API
+Awesome examples how to use the Qlik Engine API:
+
+- [On demand app generation](https://github.com/websy85/on-demand-app-gen)
 
 ## Authentication
 
