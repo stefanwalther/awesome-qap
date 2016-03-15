@@ -39,12 +39,21 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
 - [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
+- []() - 
 
 ## Engine API
 
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
 - [qsoocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
 - [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
+- []() - 
+
+## Qlik Sense Repository (QRS) API
+
+- [Qlik-Cli](﻿https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
+- []() - 
+- []() - 
+
 
 ## Security
 
