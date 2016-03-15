@@ -5,16 +5,26 @@ Contributions are not only always welcome but the entire idea behind this list!
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
 - [Integration Overview](#integration-overview)
-- [Visualization Extensions](#visualization-extensions)
-- [Visualization Extension Development](#visualization-extension-development)
 - [Engine API](#engine-api)
+- [Mashup API](#mashup-api)
+- [Visualization API](#visualization-api)
+- [Visualization Extensions](#visualization-extensions)
+- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 - [Security](#security)
 - [Connectivity](#connectivity)
+- [.NET SDK](#net-sdk)
 
 ---
 
 ## Integration Overview
 
+- Unfortunately not found any good resources out there.
+
+## Engine API
+
+- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
+- [qsoocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
+- [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
 - []() - 
 
 ## Mashup API
@@ -30,25 +40,16 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
 - [Qlik Sense Extension with D3](http://blog.axc.net/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-
-## Visualization Extension Development
-
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
 - [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
 - []() - 
-
-## Engine API
-
-- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
-- [qsoocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
-- [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
+- []() - 
+- []() - 
 - []() - 
 
-## Qlik Sense Repository (QRS) API
+
+
+## Qlik Sense Repository API
 
 - [Qlik-Cli](﻿https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
 - [QlikSensePowerShell](https://github.com/JoeBickley/QlikSensePowerShell) - A powershell plugin with common Qlik Sense automation functions.- []() - 
