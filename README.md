@@ -6,6 +6,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [Integration Overview](#integration-overview)
 - [Engine API](#engine-api)
+- [On Demand App Generation](#on-demand-app-generation)
 - [Mashup API](#mashup-api)
 - [Visualization API](#visualization-api)
 - [Visualization Extensions](#visualization-extensions)
@@ -22,10 +23,16 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Engine API
 
-- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
-- [qsoocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
+- [qsocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
 - [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
-- []() - 
+- [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps. 
+- [QlikSenseAngularDemo](https://github.com/thomasfriebel/QlikSenseAngularDemo) - A lightweight browser demo of the new Qlik Engine API.
+
+## On Demand App generation
+- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
+- [app-on-deman](https://github.com/bardess/app-on-demand) - On demand app generation
+- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
+- [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
 
 ## Mashup API
 
