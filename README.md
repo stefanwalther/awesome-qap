@@ -41,7 +41,12 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Visualization API
 - [The Visualization API - An Overview](http://branch.qlik.com/#/blog/56cc5f2af9e755b0dd301559)
-- []() - 
+- Some great gists, using the Visualization API:
+    - [Basic Visualizatino API example.](https://jsfiddle.net/mindspank/803627ug/) - Connecting to Qlik Sense and displaying fully interactive graphs based on Qlik data.
+    - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) - 
+    - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) - 
+    - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
+    
 
 ## Visualization Extensions
 
@@ -71,7 +76,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [qlik-auth-google](https://github.com/braathen/qlik-auth-google) - Qlik Sense OAuth2 authentication module designed specifically for Google services.
 - [qlikoauth](https://github.com/braathen/qlikoauth) - Demonstration using OAuth 2.0 for QlikView and Qlik Sense integration.
 - [Chrome Security Rule Management](https://github.com/flautrup/ChromeRuleManagement) - Chrome app developed to help the reuse and transfer of rules between Qlik Sense environments.
-
+- [Using Capability APIs with tickets](https://github.com/mindspank/express-qps-sample) - Example how to use [Express](http://expressjs.com/) to host a page using the Capabilities API from Qlik Sense.
 
 ## Connectivity
 
