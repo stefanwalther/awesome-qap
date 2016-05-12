@@ -9,6 +9,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [On Demand App Generation](#on-demand-app-generation)
 - [Mashup API](#mashup-api)
 - [Visualization API](#visualization-api)
+- [Capability APIs](#capability-apis)
 - [Visualization Extensions](#visualization-extensions)
 - [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 - [Security](#security)
@@ -47,7 +48,10 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
     - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) - 
     - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) - 
     - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
-    
+
+## Capability APIs
+
+- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack    
 
 ## Visualization Extensions
 
@@ -57,10 +61,6 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
 - [Lasso plugin](https://github.com/skokenes/D3-Lasso-Plugin) - D3 plugin, very similar to the lasso in Qlik Sense.
 - [Qlik-Sense-D3-Visualization-Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A library of d3 visualizations housed in 1 Qlik Sense extension.
-
-## Capability APIs
-
-- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack
 
 ## Qlik Sense Repository API
 
