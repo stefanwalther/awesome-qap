@@ -55,18 +55,13 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Qlik Sense Extension with D3](http://blog.axc.net/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
 - [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
-- []() - 
-- []() - 
-- []() - 
-- []() - 
 
 
 
 ## Qlik Sense Repository API
 
 - [Qlik-Cli](﻿https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
-- [QlikSensePowerShell](https://github.com/JoeBickley/QlikSensePowerShell) - A powershell plugin with common Qlik Sense automation functions.- []() - 
-- []() - Add
+- [QlikSensePowerShell](https://github.com/JoeBickley/QlikSensePowerShell) - A powershell plugin with common Qlik Sense automation functions.
 
 ## Security
 
