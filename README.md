@@ -19,7 +19,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Integration Overview
 
-- Unfortunately not found any good resources out there.
+- [Qlik Analytics Platform / QAP](http://help.qlik.com/en-US/sense-developer/2.2/Subsystems/Platform/Content/Architecture/qlik-analytic-platform.htm) - Overview of the Qlik Analytics Platform
 
 ## Engine API
 
