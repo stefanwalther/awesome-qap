@@ -60,7 +60,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Qlik Sense Repository API
 
-- [Qlik-Cli](﻿https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
+- [Qlik-Cli](https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
 - [QlikSensePowerShell](https://github.com/JoeBickley/QlikSensePowerShell) - A powershell plugin with common Qlik Sense automation functions.
 
 ## Security
