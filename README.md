@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome resources related to several Qlik Sense integration topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
+A collection of awesome resources related to several Qlik Sense integration resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 Contributions are not only always welcome but the entire idea behind this list! 
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
