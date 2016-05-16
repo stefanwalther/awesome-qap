@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources related to several Qlik Sense integration resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
-Contributions are not only always welcome but the entire idea behind this list! 
+Contributions are not only always welcome but the entire idea behind this list!
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
 - [Integration Overview](#integration-overview)
@@ -24,9 +24,9 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Engine API
 
-- [qsocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API. 
+- [qsocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API.
 - [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
-- [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps. 
+- [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps.
 - [QlikSenseAngularDemo](https://github.com/thomasfriebel/QlikSenseAngularDemo) - A lightweight browser demo of the new Qlik Engine API.
 
 ## On Demand App generation
@@ -39,14 +39,14 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [Mashup API Tutorials](https://community.qlik.com/thread/140982) - Great series of tutorials how to get started with Mashups.
 - [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
-- [Qlik Analytics for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site. 
+- [Qlik Analytics for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
 
 ## Visualization API
 - [The Visualization API - An Overview](http://branch.qlik.com/#/blog/56cc5f2af9e755b0dd301559)
 - Some great gists, using the Visualization API:
     - [Basic Visualizatino API example.](https://jsfiddle.net/mindspank/803627ug/) - Connecting to Qlik Sense and displaying fully interactive graphs based on Qlik data.
-    - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) - 
-    - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) - 
+    - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) -
+    - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) -
     - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
 
 ## Capability APIs
@@ -80,15 +80,15 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Connectivity
 
-- []() - 
-- []() - 
-- []() - 
+- [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
+- []() -
+- []() -
 
 ## .NET SDK
 
-- []() - 
-- []() - 
-- []() - 
+- []() -
+- []() -
+- []() -
 
 
 # License
