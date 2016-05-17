@@ -44,7 +44,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 ## Visualization API
 - [The Visualization API - An Overview](http://branch.qlik.com/#/blog/56cc5f2af9e755b0dd301559)
 - Some great gists, using the Visualization API:
-    - [Basic Visualizatino API example.](https://jsfiddle.net/mindspank/803627ug/) - Connecting to Qlik Sense and displaying fully interactive graphs based on Qlik data.
+    - [Basic Visualization API example.](https://jsfiddle.net/mindspank/803627ug/) - Connecting to Qlik Sense and displaying fully interactive graphs based on Qlik data.
     - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) -
     - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) -
     - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
