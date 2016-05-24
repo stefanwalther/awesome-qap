@@ -86,7 +86,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## .NET SDK
 
-- []() -
+- [.NET SDK Examples](https://github.com/AptkQlik/PublicExamples) - Some examples using the .NET SDK.
 - []() -
 - []() -
 
