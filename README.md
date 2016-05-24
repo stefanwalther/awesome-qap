@@ -87,8 +87,10 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 ## .NET SDK
 
 - [.NET SDK Examples](https://github.com/AptkQlik/PublicExamples) - Some examples using the .NET SDK.
-- []() -
-- []() -
+- [Reloader NTLM](https://github.com/AptkQlik/Reloader_NTLM) - Example how to avoid consuming license tokens and how to use other credentials than the logged on user.
+- [SDKConnectionWithSenseTicket](https://github.com/AptkQlik/SDKConnectionWithSenseTicket) - Connect with the Qlik Sense .Net SDK using an existing session.
+- [ScriptReloader](https://github.com/AptkQlik/ScriptReloader) - Illustrate how one can decompose a Qlik Sense App so that scripts can be reloaded from an external server.
+- [QlikSenseScriptObfuscater](https://github.com/AptkQlik/QlikSenseScriptObfuscater) - A way to hide scripts with .Net SDK in Qlik Sense.
 
 
 # License
