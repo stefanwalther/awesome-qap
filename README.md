@@ -51,6 +51,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
     - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) -
     - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) -
     - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
+- [Introduction to Generic Object](https://community.qlik.com/docs/DOC-7732) - Very detailed explanation of the Generic Object, which is the foundation for all visualizations in Qlik Sense.
 
 ## Capability APIs
 
