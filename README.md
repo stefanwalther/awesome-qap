@@ -24,6 +24,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 ## Engine API
 
+- [Introduction to Generic Object](https://community.qlik.com/docs/DOC-7732) - Very detailed explanation of the Generic Object, which is the foundation for all visualizations in Qlik Sense.
 - [qsocks](https://github.com/mindspank/qsocks) - A lightweight promise wrapper around the Qlik Sense Engine API.
 - [Engine API Explorer](http://qliksite.io/qlik-sense/introducing-engine-api-explorer/) - Introduction to the Engine API Explorer (a part of Dev Hub).
 - [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps.
