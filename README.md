@@ -30,6 +30,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [QlikSenseAngularDemo](https://github.com/thomasfriebel/QlikSenseAngularDemo) - A lightweight browser demo of the new Qlik Engine API.
 
 ## On Demand App generation
+
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
 - [app-on-deman](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
@@ -42,7 +43,8 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Qlik Analytics for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
 
 ## Visualization API
-- [The Visualization API - An Overview](http://branch.qlik.com/#/blog/56cc5f2af9e755b0dd301559)
+
+- [The Visualization API - An Overview](https://community.qlik.com/docs/DOC-16768) - Great overview of the Visualization API, created by Erik Wetterberg.
 - Some great gists, using the Visualization API:
     - [Basic Visualization API example.](https://jsfiddle.net/mindspank/803627ug/) - Connecting to Qlik Sense and displaying fully interactive graphs based on Qlik data.
     - [Patching properties on the fly](https://jsfiddle.net/mindspank/b6zob8ku/) -
