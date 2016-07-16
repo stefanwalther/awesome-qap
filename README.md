@@ -10,6 +10,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Mashup API](#mashup-api)
 - [Visualization API](#visualization-api)
 - [Capability APIs](#capability-apis)
+- [Building Visualization Extensions](#building-visualization-extensions)
 - [Visualization Extensions](#visualization-extensions)
 - [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 - [Security](#security)
@@ -58,7 +59,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack    
 
-## Visualization Extensions
+## Building Visualization Extensions
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
 - [Qlik Sense Extension with D3](http://blog.axc.net/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
@@ -68,6 +69,9 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Lasso plugin](https://github.com/skokenes/D3-Lasso-Plugin) - D3 plugin, very similar to the lasso in Qlik Sense.
 - [Qlik-Sense-D3-Visualization-Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A library of d3 visualizations housed in 1 Qlik Sense extension.
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
+
+## Visualization Extensions
+- [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 
 ## Qlik Sense Repository API
 
