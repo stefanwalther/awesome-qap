@@ -5,6 +5,7 @@ Contributions are not only always welcome but the entire idea behind this list!
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
 - [Integration Overview](#integration-overview)
+- [Solutions built on top of QAP](#solutions)
 - [Engine API](#engine-api)
 - [On Demand App Generation](#on-demand-app-generation)
 - [Mashup API](#mashup-api)
@@ -22,6 +23,12 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 ## Integration Overview
 
 - [Qlik Analytics Platform / QAP](http://help.qlik.com/en-US/sense-developer/2.2/Subsystems/Platform/Content/Architecture/qlik-analytic-platform.htm) - Overview of the Qlik Analytics Platform
+
+## Solutions
+Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
+
+- [Fasttrack](https://github.com/jacobvinzent/Fasttrack) - Transfer dimensions and expressions from QlikView 11 to Qlik Sense
+- [QLIK-Visualization-API-json-file](https://github.com/jacobvinzent/QLIK-Visualization-API-json-file) -  Reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers
 
 ## Engine API
 
