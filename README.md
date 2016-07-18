@@ -99,8 +99,6 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 ## Connectivity
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
-- []() -
-- []() -
 
 ## .NET SDK
 
