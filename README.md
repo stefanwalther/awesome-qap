@@ -42,7 +42,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 ## On Demand App generation
 
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
-- [app-on-deman](https://github.com/bardess/app-on-demand) - On demand app generation
+- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
 - [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
 
