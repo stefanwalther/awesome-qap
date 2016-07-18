@@ -6,8 +6,8 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 
 - [Integration Overview](#integration-overview)
 - [Solutions built on top of QAP](#solutions)
+	- [On Demand App Generation](#on-demand-app-generation)
 - [Engine API](#engine-api)
-- [On Demand App Generation](#on-demand-app-generation)
 - [Mashup API](#mashup-api)
 - [Visualization API](#visualization-api)
 - [Capability APIs](#capability-apis)
@@ -30,6 +30,13 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Fasttrack](https://github.com/jacobvinzent/Fasttrack) - Transfer dimensions and expressions from QlikView 11 to Qlik Sense
 - [QLIK-Visualization-API-json-file](https://github.com/jacobvinzent/QLIK-Visualization-API-json-file) -  Reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers
 
+### On Demand App generation
+
+- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
+- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
+- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
+- [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
+
 ## Engine API
 
 - [Introduction to Generic Object](https://community.qlik.com/docs/DOC-7732) - Very detailed explanation of the Generic Object, which is the foundation for all visualizations in Qlik Sense.
@@ -38,13 +45,6 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps.
 - [QlikSenseAngularDemo](https://github.com/thomasfriebel/QlikSenseAngularDemo) - A lightweight browser demo of the new Qlik Engine API.
 - [Qlik REST In Sense (otto)](https://github.com/ralfbecher/q-risotto) - A RESTful Engine API wrapper to easily accessapps, objects and its data on a Qlik Sense server thru a REST API to integrate with other systems.
-
-## On Demand App generation
-
-- [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
-- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
-- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
-- [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
 
 ## Mashup API
 
