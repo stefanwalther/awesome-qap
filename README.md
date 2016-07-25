@@ -78,6 +78,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
 
 ## Visualization Extensions
+- [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 
 ## Qlik Sense Repository API
