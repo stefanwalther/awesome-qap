@@ -80,6 +80,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 ## Visualization Extensions
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
+- [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker
 
 ## Qlik Sense Repository API
 
