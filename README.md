@@ -36,6 +36,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
 - [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
+- [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
 
 ## Engine API
 
