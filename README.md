@@ -79,6 +79,8 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
 
 ## Visualization Extensions
+A random selection of visualization extensions, you'lll find much more on [branch](http://branch.qlik.com).  
+
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker
