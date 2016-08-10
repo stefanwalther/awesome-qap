@@ -95,6 +95,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 ## Security
 
 - [Authenticating with certificates](http://qliksite.io/qlik-sense/authentication-certificates/) - A step-by-step guide how to set up, configure and use certificates for authentication.
+- [AccessControlTestModule](https://github.com/flautrup/AccessControlTestModule) - Authentication module for Qlik Sense to be used to test Access Control
 - [Using Header Authentication](http://qliksite.io/qlik-sense/header-authentication-configuration/) - A step-by-step guide how to set up and use header authentication.
 - [qlik-auth](https://github.com/braathen/qlik-auth) - Node.js library to simplify custom authentication with both QlikView and Qlik Sense.
 - [qlik-auth-net](https://github.com/braathen/qlik-auth-net) - Asp.net module for simplifying custom authentication with Qlik Sense.
