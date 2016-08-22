@@ -10,6 +10,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Engine API](#engine-api)
 - [Mashup API](#mashup-api)
 - [Visualization API](#visualization-api)
+- [Widget Libraries](#widget-libraries)
 - [Capability APIs](#capability-apis)
 - [Building Visualization Extensions](#building-visualization-extensions)
 - [Visualization Extensions](#visualization-extensions)
@@ -62,6 +63,12 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
     - [Selective Data points](https://jsfiddle.net/mindspank/1zqp7zuc/) -
     - [Visualization API and Extensions on the fly](https://jsfiddle.net/mindspank/rnmka3zh/) - Loading on the fly extensions and using the visualization api to display them.
 - [Introduction to Generic Object](https://community.qlik.com/docs/DOC-7732) - Very detailed explanation of the Generic Object, which is the foundation for all visualizations in Qlik Sense.
+
+## Widget Libraries
+Some collections of Widgets:
+
+- [SenseUI-Widgets](https://github.com/yianni-ververis/SenseUI-WidgetLibrary) - The Widget library created by Qlik's demo team.
+- [Themed Widgets](https://github.com/newmans99/Themed-Widgets) - Qlik Sense UI Widgets supporting themes
 
 ## Capability APIs
 
