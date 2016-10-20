@@ -30,6 +30,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 
 - [Fasttrack](https://github.com/jacobvinzent/Fasttrack) - Transfer dimensions and expressions from QlikView 11 to Qlik Sense
 - [QLIK-Visualization-API-json-file](https://github.com/jacobvinzent/QLIK-Visualization-API-json-file) -  Reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers
+- [SaaS Demo](https://github.com/QHose/QRSMeteor) - SaaS API automation demo.
 
 ### On Demand App generation
 
