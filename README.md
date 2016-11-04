@@ -40,6 +40,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
 - [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
+- [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
 
 ## Engine API
 
