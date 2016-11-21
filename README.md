@@ -50,6 +50,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Engine API and qSocks](https://community.qlik.com/blogs/qlikviewdesignblog/2015/07/20/engine-api-and-qsocks-connecting-and-getting-a-list-of-available-apps) - Engine API and qSocks - Connecting and getting a list of available apps.
 - [QlikSenseAngularDemo](https://github.com/thomasfriebel/QlikSenseAngularDemo) - A lightweight browser demo of the new Qlik Engine API.
 - [Qlik REST In Sense (otto)](https://github.com/ralfbecher/q-risotto) - A RESTful Engine API wrapper to easily accessapps, objects and its data on a Qlik Sense server thru a REST API to integrate with other systems.
+- [QIX Struct Generator](http://opensrc.axisgroup.com/qix-struct-generator/) - QIX Engine Struct Generator.
 
 ## Mashup API
 
