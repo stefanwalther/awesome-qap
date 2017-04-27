@@ -17,6 +17,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 - [Security](#security)
 - [Connectivity](#connectivity)
+- [DevOps](#devops)
 - [.NET SDK](#net-sdk)
 
 ---
@@ -90,7 +91,7 @@ Some collections of Widgets:
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
 
 ## Visualization Extensions
-A random selection of visualization extensions, you'lll find much more on [branch](http://branch.qlik.com).  
+A random selection of visualization extensions, you'lll find much more on [branch](http://branch.qlik.com).
 
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
@@ -119,6 +120,14 @@ A random selection of visualization extensions, you'lll find much more on [branc
 ## Connectivity
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
+- [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
+- []() -
+
+## DevOps
+
+- [SenseOps](https://senseops.rocks) - Qlik Sense + DevOps = SenseOps. Thoughts on best practices for using Sense in the enterprise.
+- [Butler SOS](https://github.com/mountaindude/butler-sos) - Grafana powered real-time operational dashboards for Qlik Sense enterprise.
+
 
 ## .NET SDK
 
