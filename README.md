@@ -121,13 +121,11 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
-- []() -
 
 ## DevOps
 
 - [SenseOps](https://senseops.rocks) - Qlik Sense + DevOps = SenseOps. Thoughts on best practices for using Sense in the enterprise.
 - [Butler SOS](https://github.com/mountaindude/butler-sos) - Grafana powered real-time operational dashboards for Qlik Sense enterprise.
-
 
 ## .NET SDK
 
@@ -136,7 +134,6 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [SDKConnectionWithSenseTicket](https://github.com/AptkQlik/SDKConnectionWithSenseTicket) - Connect with the Qlik Sense .Net SDK using an existing session.
 - [ScriptReloader](https://github.com/AptkQlik/ScriptReloader) - Illustrate how one can decompose a Qlik Sense App so that scripts can be reloaded from an external server.
 - [QlikSenseScriptObfuscater](https://github.com/AptkQlik/QlikSenseScriptObfuscater) - A way to hide scripts with .Net SDK in Qlik Sense.
-
 
 # License
 
