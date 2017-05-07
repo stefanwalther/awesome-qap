@@ -19,7 +19,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Connectivity](#connectivity)
 - [DevOps](#devops)
 - [.NET SDK](#net-sdk)
-- [Qlik Sense QMC Utilities](#qliksense-qmc-utilities)
+- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
 
 ---
 
