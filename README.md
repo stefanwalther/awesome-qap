@@ -19,6 +19,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Connectivity](#connectivity)
 - [DevOps](#devops)
 - [.NET SDK](#net-sdk)
+- [Qlik Sense QMC Utilities](#qliksense-qmc-utilities)
 
 ---
 
@@ -134,6 +135,18 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [SDKConnectionWithSenseTicket](https://github.com/AptkQlik/SDKConnectionWithSenseTicket) - Connect with the Qlik Sense .Net SDK using an existing session.
 - [ScriptReloader](https://github.com/AptkQlik/ScriptReloader) - Illustrate how one can decompose a Qlik Sense App so that scripts can be reloaded from an external server.
 - [QlikSenseScriptObfuscater](https://github.com/AptkQlik/QlikSenseScriptObfuscater) - A way to hide scripts with .Net SDK in Qlik Sense.
+
+## Qlik Sense QMC Utilities
+
+A collection of management console utilities for use with Qlik Sense.
+
+- [App Meta Fetcher](https://github.com/eapowertools/qmcu-app-meta-fetcher) - App Meta Fetcher is used in conjunction with the Governed Metrics Application (included in the Governed Metrics Service installation). This plugin outputs Site-level application metadata into a collection of csv files which can be used to identify application, master and non-master item, visualization, and sheet metadata.
+- [App Mover](https://github.com/eapowertools/qmcu-app-mover) - App Mover is a tool to help administer application movement from site to site. It allows exporting from one Qlik Sense environment and importing into 1 or many Qlik Sense environments.
+- [App Object Approver](https://github.com/eapowertools/qmcu-appobject-approver) - The App Object Approver enables approval of published sheets, stories, bookmarks, dimensions, measures, and Master Items in an app, thus, making them base objects of the Qlik Sense application. In addition, it's possible to un-approve objects as well and push them back to the community.
+- [Custom Property Bulk Loader](https://github.com/eapowertools/qmcu-custom-prop-loader) - The Custom Property Bulk Loader enables administrators to upload a list of values for managing custom properties without having to enter values manually. The bulk loader is able to update existing custom properties, or create new custom properties for a Qlik Sense deployment. Select a custom property or provide a name, select the resources the custom property will apply to, and upload a csv file with a single column list of values. Once that's done click the Create or Update button and to add or modify the custom property.
+- [Real QMC](https://github.com/eapowertools/qmcu-real-qmc) - The Actual Qlik Management Console in QMC Utilities
+- [Security Rule Manager](https://github.com/eapowertools/qmcu-rule-manager) - The Security Rule Manager allows a Qlik Sense administrator to export and import security rules from the Qlik Sense repository. This is helpful if you have developed a security model in one environment and would like to bring the whole model (or even specific security rules) over to a different environment.
+- [Source Control Assistant](https://github.com/eapowertools/qmcu-sclite) - The Source Control Assistant is an application backup and restore solution for Qlik Sense.  Apps are serialized to json files, which can be easily stored and versioned in popular source control systems like Subversion, TFS, and Github.
 
 # License
 
