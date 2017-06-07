@@ -74,6 +74,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 ## Widget Libraries
 Some collections of Widgets:
 
+- [Irregular Widgets](https://github.com/ralfbecher/irregular-widgets) Widget Library create by Ralf Becher
 - [SenseUI-Widgets](https://github.com/yianni-ververis/SenseUI-WidgetLibrary) - The Widget library created by Qlik's demo team.
 - [Themed Widgets](https://github.com/newmans99/Themed-Widgets) - Qlik Sense UI Widgets supporting themes
 
