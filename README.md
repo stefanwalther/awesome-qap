@@ -138,6 +138,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
+- [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts
 
 ## DevOps
 
