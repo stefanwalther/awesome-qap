@@ -103,6 +103,21 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental)
 - [xTableBox](https://github.com/ludberg/xTableBox) - Display all columns of a table, very usefull during the data-modelling process.
 
+## Server Side Extensions (SSE)
+
+### Official Resources & Help
+
+- (Server Side Extension)[https://github.com/qlik-oss/server-side-extension] - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines
+- (Server Side Extension - R-plugin)[https://github.com/qlik-oss/sse-r-plugin] - A Qlik server-side extension plugin for accessing R.
+- (Creating an analytic connection / QMC)[https://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/create-analytic-connection.htm]
+- (Configuring an analytic connection / Desktop)[http://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm]
+
+### SSE - Implementations
+- (Qlik Sense Analytic Extension for Security)[https://github.com/flautrup/SecSSE] - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
+
+https://hub.docker.com/r/wbvreeuwijk/sse2rserve/
+
+
 ## Qlik Sense Repository API
 
 - [Qlik-Cli](https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
