@@ -116,6 +116,8 @@ A random selection of visualization extensions, you'lll find much more on [branc
 ### SSE - Implementations
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
 
+### SSE - Articles
+- [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service
 
 ## Qlik Sense Repository API
 
