@@ -115,6 +115,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ### SSE - Implementations
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
+- [NBA example with BigML integration](https://github.com/josefinestal/SSE-BigML) - Server Side Extension example app using NBA data. The NBA app was first shown at Qonnections 2016, demonstrating how R and Python as external calculation engines could be used to extend the expression library in the Qlik Engine for statistical analysis.
 
 ### SSE - Articles
 - [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service
