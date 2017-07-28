@@ -1,9 +1,13 @@
 version: 2
 
-  jobs:
-    build:
-      docker:
-        - image: circleci/ruby:2.3
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.4.1
 
-    steps:
-      - run: awesome_bot README.md --allow-dupe --allow-ssl
+  steps:
+    - checkout
+    - run:
+        name: install-awesome-bot
+        command: 'gem install awesome_bot'
+    - run: awesome_bot README.md --allow-dupe --allow-ssl
