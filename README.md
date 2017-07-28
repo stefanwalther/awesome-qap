@@ -42,7 +42,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
 - [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
-- [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
 
@@ -60,7 +60,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 
 - [Mashup API Tutorials](https://community.qlik.com/thread/140982) - Great series of tutorials how to get started with Mashups.
 - [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
-- [Qlik Analytics for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
+- [Qlik Analytics for Visual Studio](https://marketplace.visualstudio.com/vsgallery/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
 
 ## Visualization API
 
@@ -86,10 +86,10 @@ Some collections of Widgets:
 ## Building Visualization Extensions
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
-- [Qlik Sense Extension with D3](http://blog.axc.net/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
+- [Qlik Sense Extension with D3](http://www.axisgroup.com/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
 - [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
-- [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
+- [Lasso filtering](http://www.axisgroup.com/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
 - [Lasso plugin](https://github.com/skokenes/D3-Lasso-Plugin) - D3 plugin, very similar to the lasso in Qlik Sense.
 - [Qlik-Sense-D3-Visualization-Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A library of d3 visualizations housed in 1 Qlik Sense extension.
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
@@ -142,7 +142,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ## Connectivity
 
-- [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
+- [Butler for Qlik Sense](https://github.com/mountaindude/butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
 - [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts
 
@@ -173,6 +173,6 @@ A collection of management console utilities for use with Qlik Sense.
 
 # License
 
-[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
