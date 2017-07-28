@@ -111,7 +111,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [Server Side Extension](https://github.com/qlik-oss/server-side-extension) - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines
 - [Server Side Extension - R-plugin](https://github.com/qlik-oss/sse-r-plugin) - A Qlik server-side extension plugin for accessing R.
 - [Creating an analytic connection / QMC](https://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/create-analytic-connection.htm)
-- [Configuring an analytic connection / Desktop](http://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
+- [Configuring an analytic connection / Desktop](https://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
 
 ### SSE - Plugins
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
