@@ -15,7 +15,7 @@ Please take a look at the [contribution guidelines and quality standard](CONTRIB
 - [Capability APIs](#capability-apis)
 - [Building Visualization Extensions](#building-visualization-extensions)
 - [Visualization Extensions](#visualization-extensions)
-- [Server Side Extensions](#server-side-extensions-sse)
+- [Server Side Extensions (Advanced Analytics)](#server-side-extensions-sse)
 - [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 - [Security](#security)
 - [Connectivity](#connectivity)
