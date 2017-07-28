@@ -118,6 +118,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [NBA example with BigML integration](https://github.com/josefinestal/SSE-BigML) - Server Side Extension example app using NBA data. The NBA app was first shown at Qonnections 2016, demonstrating how R and Python as external calculation engines could be used to extend the expression library in the Qlik Engine for statistical analysis.
 
 ### SSE - Solutions
+- [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
 - [Advanced Analytics Toolbox](https://github.com/mhamano/advanced-analytics-toolbox) - Qlik Sense extension which allows you to create charts to perform advanced analytics by simple drag and drop without complex scripting
 
 ### SSE - Articles
