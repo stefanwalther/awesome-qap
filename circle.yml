@@ -1,8 +1,0 @@
-machine:
-  ruby:
-    version: 2.4.1
-test:
-  pre:
-    - gem install awesome_bot
-  override:
-    - awesome_bot README.md --allow-dupe --allow-ssl
