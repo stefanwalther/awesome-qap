@@ -119,6 +119,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ### SSE - Articles
 - [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service
+- [Qlik Sense Server Side Extensions - Part 1/3](http://www.axisgroup.com/qlik-sense-server-side-extensions-part-13-architecture-environment) - Qlik Sense Server Side Extensions Part 1/3: Architecture and Environment
 
 ## Qlik Sense Repository API
 
