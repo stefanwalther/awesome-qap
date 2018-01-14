@@ -45,6 +45,12 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense.
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense.
+- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
+- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
+- [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
+- [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
+
 
 ## Engine API
 
@@ -115,7 +121,6 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ### SSE - Plugins
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information.
-- [NBA example with BigML integration](https://github.com/josefinestal/SSE-BigML) - Server Side Extension example app using NBA data. The NBA app was first shown at Qonnections 2016, demonstrating how R and Python as external calculation engines could be used to extend the expression library in the Qlik Engine for statistical analysis.
 
 ### SSE - Solutions
 - [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
