@@ -1,27 +1,26 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources related to several Qlik Sense integration resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
-Contributions are not only always welcome but the entire idea behind this list!
 
-Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
-
-- [Integration Overview](#integration-overview)
-- [Solutions built on top of QAP](#solutions)
-	- [On Demand App Generation](#on-demand-app-generation)
-- [Engine API](#engine-api)
-- [Mashup API](#mashup-api)
-- [Visualization API](#visualization-api)
-- [Widget Libraries](#widget-libraries)
-- [Capability APIs](#capability-apis)
-- [Building Visualization Extensions](#building-visualization-extensions)
-- [Visualization Extensions](#visualization-extensions)
-- [Server Side Extensions (Advanced Analytics)](#server-side-extensions-sse)
-- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
-- [Security](#security)
-- [Connectivity](#connectivity)
-- [DevOps](#devops)
-- [.NET SDK](#net-sdk)
-- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
+- Topics
+	- [Integration Overview](#integration-overview)
+	- [Solutions built on top of QAP](#solutions)
+		- [On Demand App Generation](#on-demand-app-generation)
+	- [Engine API](#engine-api)
+	- [Mashup API](#mashup-api)
+	- [Visualization API](#visualization-api)
+	- [Widget Libraries](#widget-libraries)
+	- [Capability APIs](#capability-apis)
+	- [Building Visualization Extensions](#building-visualization-extensions)
+	- [Visualization Extensions](#visualization-extensions)
+	- [Server Side Extensions (Advanced Analytics)](#server-side-extensions-sse)
+	- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
+	- [Security](#security)
+	- [Connectivity](#connectivity)
+	- [DevOps](#devops)
+	- [.NET SDK](#net-sdk)
+	- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
+- [Contributing](#contributing)
 
 ---
 
@@ -171,6 +170,14 @@ A collection of management console utilities for use with Qlik Sense.
 - [Real QMC](https://github.com/eapowertools/qmcu-real-qmc) - The Actual Qlik Management Console in QMC Utilities
 - [Security Rule Manager](https://github.com/eapowertools/qmcu-rule-manager) - The Security Rule Manager allows a Qlik Sense administrator to export and import security rules from the Qlik Sense repository. This is helpful if you have developed a security model in one environment and would like to bring the whole model (or even specific security rules) over to a different environment.
 - [Source Control Assistant](https://github.com/eapowertools/qmcu-sclite) - The Source Control Assistant is an application backup and restore solution for Qlik Sense.  Apps are serialized to json files, which can be easily stored and versioned in popular source control systems like Subversion, TFS, and Github.
+
+
+# Contributing
+
+Contributions are not only always welcome but the entire idea behind this list!
+
+Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
+
 
 # License
 
