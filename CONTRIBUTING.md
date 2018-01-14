@@ -14,4 +14,4 @@ To stay on the list, projects should follow these quality standards:
 * Stable
 * Documented
 
-Thanks to all [contributors](https://github.com/stefanwalther/awesome-qliksense-integration/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/stefanwalther/awesome-qap/graphs/contributors), you're awesome and wouldn't be possible without you!
