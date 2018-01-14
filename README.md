@@ -2,7 +2,7 @@
 
 A collection of awesome resources related to several Qlik Sense integration resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-- Topics
+- **Topics**
 	- [Integration Overview](#integration-overview)
 	- [Solutions built on top of QAP](#solutions)
 		- [On Demand App Generation](#on-demand-app-generation)
@@ -21,6 +21,7 @@ A collection of awesome resources related to several Qlik Sense integration resp
 	- [.NET SDK](#net-sdk)
 	- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
 - [Contributing](#contributing)
+- [License](#license)
 
 ---
 
