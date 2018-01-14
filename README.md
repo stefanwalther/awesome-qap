@@ -110,23 +110,23 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental)
 - [xTableBox](https://github.com/ludberg/xTableBox) - Display all columns of a table, very usefull during the data-modelling process.
 
-## Server Side Extensions (SSE)
+## Server Side Extensions (SSE) / Advanced Analytics (AAI
 
-### Official Resources & Help
+### SSE/AAI Official Resources & Help
 
 - [Server Side Extension](https://github.com/qlik-oss/server-side-extension) - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines.
 - [Server Side Extension - R-plugin](https://github.com/qlik-oss/sse-r-plugin) - A Qlik server-side extension plugin for accessing R.
 - [Creating an analytic connection / QMC](https://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/create-analytic-connection.htm)
 - [Configuring an analytic connection / Desktop](https://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
 
-### SSE - Plugins
+### SSE/AAI - Plugins
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information.
 
-### SSE - Solutions
+### SSE/AAI - Solutions
 - [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
 - [Advanced Analytics Toolbox](https://github.com/mhamano/advanced-analytics-toolbox) - Qlik Sense extension which allows you to create charts to perform advanced analytics by simple drag and drop without complex scripting.
 
-### SSE - Articles
+### SSE/AAI - Articles
 - [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service.
 
 ## Qlik Sense Repository API
