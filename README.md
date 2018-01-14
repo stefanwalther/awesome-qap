@@ -32,19 +32,25 @@ A collection of awesome resources related to several Qlik Sense integration resp
 ## Solutions
 Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 
-- [Fasttrack](https://github.com/jacobvinzent/Fasttrack) - Transfer dimensions and expressions from QlikView 11 to Qlik Sense
-- [QLIK-Visualization-API-json-file](https://github.com/jacobvinzent/QLIK-Visualization-API-json-file) -  Reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers
+- [Fasttrack](https://github.com/jacobvinzent/Fasttrack) - Transfer dimensions and expressions from QlikView 11 to Qlik Sense.
+- [QLIK-Visualization-API-json-file](https://github.com/jacobvinzent/QLIK-Visualization-API-json-file) -  Reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers.
 - [SaaS Demo](https://github.com/QHose/QRSMeteor) - SaaS API automation demo.
 - [mdemo](https://github.com/aalteirac/mdemo) - A Qlik Sense Mashups demo Extension for Qlik Sense Desktop and Qlik Sense Server.
 
 ### On Demand App generation
 
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
+- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation.
+- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template.
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
+- [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense.
+- [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense.
 - [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
 - [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
+
 
 ## Engine API
 
@@ -75,9 +81,9 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 ## Widget Libraries
 Some collections of Widgets:
 
-- [Irregular Widgets](https://github.com/ralfbecher/irregular-widgets) Widget Library create by Ralf Becher
+- [Irregular Widgets](https://github.com/ralfbecher/irregular-widgets) Widget Library created by Ralf Becher.
 - [SenseUI-Widgets](https://github.com/yianni-ververis/SenseUI-WidgetLibrary) - The Widget library created by Qlik's demo team.
-- [Themed Widgets](https://github.com/newmans99/Themed-Widgets) - Qlik Sense UI Widgets supporting themes
+- [Themed Widgets](https://github.com/newmans99/Themed-Widgets) - Qlik Sense UI Widgets supporting themes.
 
 ## Capability APIs
 
@@ -87,7 +93,7 @@ Some collections of Widgets:
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
 - [Qlik Sense Extension with D3](http://www.axisgroup.com/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
-- [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions
+- [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions.
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
 - [Lasso filtering](http://www.axisgroup.com/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
 - [Lasso plugin](https://github.com/skokenes/D3-Lasso-Plugin) - D3 plugin, very similar to the lasso in Qlik Sense.
@@ -108,22 +114,20 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ### Official Resources & Help
 
-- [Server Side Extension](https://github.com/qlik-oss/server-side-extension) - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines
+- [Server Side Extension](https://github.com/qlik-oss/server-side-extension) - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines.
 - [Server Side Extension - R-plugin](https://github.com/qlik-oss/sse-r-plugin) - A Qlik server-side extension plugin for accessing R.
 - [Creating an analytic connection / QMC](https://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/create-analytic-connection.htm)
 - [Configuring an analytic connection / Desktop](https://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
 
 ### SSE - Plugins
-- [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
-- [NBA example with BigML integration](https://github.com/josefinestal/SSE-BigML) - Server Side Extension example app using NBA data. The NBA app was first shown at Qonnections 2016, demonstrating how R and Python as external calculation engines could be used to extend the expression library in the Qlik Engine for statistical analysis.
+- [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information.
 
 ### SSE - Solutions
 - [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
-- [Advanced Analytics Toolbox](https://github.com/mhamano/advanced-analytics-toolbox) - Qlik Sense extension which allows you to create charts to perform advanced analytics by simple drag and drop without complex scripting
+- [Advanced Analytics Toolbox](https://github.com/mhamano/advanced-analytics-toolbox) - Qlik Sense extension which allows you to create charts to perform advanced analytics by simple drag and drop without complex scripting.
 
 ### SSE - Articles
-- [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service
-- [Qlik Sense Server Side Extensions - Part 1/3](http://www.axisgroup.com/qlik-sense-server-side-extensions-part-13-architecture-environment) - Qlik Sense Server Side Extensions Part 1/3: Architecture and Environment
+- [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service.
 
 ## Qlik Sense Repository API
 
@@ -133,7 +137,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 ## Security
 
 - [Authenticating with certificates](http://qliksite.io/qlik-sense/authentication-certificates/) - A step-by-step guide how to set up, configure and use certificates for authentication.
-- [AccessControlTestModule](https://github.com/flautrup/AccessControlTestModule) - Authentication module for Qlik Sense to be used to test Access Control
+- [AccessControlTestModule](https://github.com/flautrup/AccessControlTestModule) - Authentication module for Qlik Sense to be used to test Access Control.
 - [Using Header Authentication](http://qliksite.io/qlik-sense/header-authentication-configuration/) - A step-by-step guide how to set up and use header authentication.
 - [qlik-auth](https://github.com/braathen/qlik-auth) - Node.js library to simplify custom authentication with both QlikView and Qlik Sense.
 - [qlik-auth-net](https://github.com/braathen/qlik-auth-net) - Asp.net module for simplifying custom authentication with Qlik Sense.
@@ -146,7 +150,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
-- [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts
+- [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts.
 
 ## DevOps
 
@@ -169,7 +173,7 @@ A collection of management console utilities for use with Qlik Sense.
 - [App Mover](https://github.com/eapowertools/qmcu-app-mover) - App Mover is a tool to help administer application movement from site to site. It allows exporting from one Qlik Sense environment and importing into 1 or many Qlik Sense environments.
 - [App Object Approver](https://github.com/eapowertools/qmcu-appobject-approver) - The App Object Approver enables approval of published sheets, stories, bookmarks, dimensions, measures, and Master Items in an app, thus, making them base objects of the Qlik Sense application. In addition, it's possible to un-approve objects as well and push them back to the community.
 - [Custom Property Bulk Loader](https://github.com/eapowertools/qmcu-custom-prop-loader) - The Custom Property Bulk Loader enables administrators to upload a list of values for managing custom properties without having to enter values manually. The bulk loader is able to update existing custom properties, or create new custom properties for a Qlik Sense deployment. Select a custom property or provide a name, select the resources the custom property will apply to, and upload a csv file with a single column list of values. Once that's done click the Create or Update button and to add or modify the custom property.
-- [Real QMC](https://github.com/eapowertools/qmcu-real-qmc) - The Actual Qlik Management Console in QMC Utilities
+- [Real QMC](https://github.com/eapowertools/qmcu-real-qmc) - The Actual Qlik Management Console in QMC Utilities.
 - [Security Rule Manager](https://github.com/eapowertools/qmcu-rule-manager) - The Security Rule Manager allows a Qlik Sense administrator to export and import security rules from the Qlik Sense repository. This is helpful if you have developed a security model in one environment and would like to bring the whole model (or even specific security rules) over to a different environment.
 - [Source Control Assistant](https://github.com/eapowertools/qmcu-sclite) - The Source Control Assistant is an application backup and restore solution for Qlik Sense.  Apps are serialized to json files, which can be easily stored and versioned in popular source control systems like Subversion, TFS, and Github.
 
