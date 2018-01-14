@@ -13,7 +13,7 @@ A collection of awesome resources related to several Qlik Sense integration resp
 	- [Capability APIs](#capability-apis)
 	- [Building Visualization Extensions](#building-visualization-extensions)
 	- [Visualization Extensions](#visualization-extensions)
-	- [Server Side Extensions (Advanced Analytics)](#server-side-extensions-sse)
+	- [Server Side Extensions / Advanced Analytics](#server-side-extensions-sse)
 	- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
 	- [Security](#security)
 	- [Connectivity](#connectivity)
