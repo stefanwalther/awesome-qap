@@ -1,27 +1,27 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources related to several Qlik Sense integration resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
-Contributions are not only always welcome but the entire idea behind this list!
 
-Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
-
-- [Integration Overview](#integration-overview)
-- [Solutions built on top of QAP](#solutions)
-	- [On Demand App Generation](#on-demand-app-generation)
-- [Engine API](#engine-api)
-- [Mashup API](#mashup-api)
-- [Visualization API](#visualization-api)
-- [Widget Libraries](#widget-libraries)
-- [Capability APIs](#capability-apis)
-- [Building Visualization Extensions](#building-visualization-extensions)
-- [Visualization Extensions](#visualization-extensions)
-- [Server Side Extensions](#server-side-extensions-sse)
-- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
-- [Security](#security)
-- [Connectivity](#connectivity)
-- [DevOps](#devops)
-- [.NET SDK](#net-sdk)
-- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
+- **Topics**
+	- [Integration Overview](#integration-overview)
+	- [Solutions built on top of QAP](#solutions)
+		- [On Demand App Generation](#on-demand-app-generation)
+	- [Engine API](#engine-api)
+	- [Mashup API](#mashup-api)
+	- [Visualization API](#visualization-api)
+	- [Widget Libraries](#widget-libraries)
+	- [Capability APIs](#capability-apis)
+	- [Building Visualization Extensions](#building-visualization-extensions)
+	- [Visualization Extensions](#visualization-extensions)
+	- [Server Side Extensions (Advanced Analytics)](#server-side-extensions-sse)
+	- [Qlik Sense Repository (QRS) API](#qlik-sense-repository-api)
+	- [Security](#security)
+	- [Connectivity](#connectivity)
+	- [DevOps](#devops)
+	- [.NET SDK](#net-sdk)
+	- [Qlik Sense QMC Utilities](#qlik-sense-qmc-utilities)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -42,7 +42,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
 - [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
-- [qlik-elastic](https://github.com/pouc/qlik-elastic) - Generated Qlik Sense apps from ElasticSearch
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
 
@@ -60,7 +60,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 
 - [Mashup API Tutorials](https://community.qlik.com/thread/140982) - Great series of tutorials how to get started with Mashups.
 - [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
-- [Qlik Analytics for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/de8d2bfa-fd5e-44d5-ab23-f8bccdcc2ef0) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
+- [Qlik Analytics for Visual Studio](https://marketplace.visualstudio.com/items?itemName=QlikDeveloperToolkit.QlikAnalyticsforVisualStudio) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
 
 ## Visualization API
 
@@ -86,10 +86,10 @@ Some collections of Widgets:
 ## Building Visualization Extensions
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
-- [Qlik Sense Extension with D3](http://blog.axc.net/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
+- [Qlik Sense Extension with D3](http://www.axisgroup.com/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
 - [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
-- [Lasso filtering](http://blog.axc.net/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
+- [Lasso filtering](http://www.axisgroup.com/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
 - [Lasso plugin](https://github.com/skokenes/D3-Lasso-Plugin) - D3 plugin, very similar to the lasso in Qlik Sense.
 - [Qlik-Sense-D3-Visualization-Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A library of d3 visualizations housed in 1 Qlik Sense extension.
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
@@ -111,11 +111,15 @@ A random selection of visualization extensions, you'lll find much more on [branc
 - [Server Side Extension](https://github.com/qlik-oss/server-side-extension) - A Qlik server-side extension protocol for extending the Qlik built-in expression library with functionality from external calculation engines
 - [Server Side Extension - R-plugin](https://github.com/qlik-oss/sse-r-plugin) - A Qlik server-side extension plugin for accessing R.
 - [Creating an analytic connection / QMC](https://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/create-analytic-connection.htm)
-- [Configuring an analytic connection / Desktop](http://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
+- [Configuring an analytic connection / Desktop](https://help.qlik.com/en-US/sense/June2017/Subsystems/Hub/Content/Introduction/configure-analytic-connection-desktop.htm)
 
-### SSE - Implementations
+### SSE - Plugins
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information
 - [NBA example with BigML integration](https://github.com/josefinestal/SSE-BigML) - Server Side Extension example app using NBA data. The NBA app was first shown at Qonnections 2016, demonstrating how R and Python as external calculation engines could be used to extend the expression library in the Qlik Engine for statistical analysis.
+
+### SSE - Solutions
+- [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
+- [Advanced Analytics Toolbox](https://github.com/mhamano/advanced-analytics-toolbox) - Qlik Sense extension which allows you to create charts to perform advanced analytics by simple drag and drop without complex scripting
 
 ### SSE - Articles
 - [Qlik Sense R-Plugin as Windows Service](https://community.qlik.com/blogs/qlikviewdesignblog/2017/07/07/automatically-start-the-r-plugin) - Run the Qlik Sense R-Plugin as a Windows service
@@ -140,7 +144,7 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 ## Connectivity
 
-- [Butler for Qlik Sense](https://github.com/mountaindude/qlik-sense-butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.  
+- [Butler for Qlik Sense](https://github.com/mountaindude/butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
 - [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts
 
@@ -169,8 +173,16 @@ A collection of management console utilities for use with Qlik Sense.
 - [Security Rule Manager](https://github.com/eapowertools/qmcu-rule-manager) - The Security Rule Manager allows a Qlik Sense administrator to export and import security rules from the Qlik Sense repository. This is helpful if you have developed a security model in one environment and would like to bring the whole model (or even specific security rules) over to a different environment.
 - [Source Control Assistant](https://github.com/eapowertools/qmcu-sclite) - The Source Control Assistant is an application backup and restore solution for Qlik Sense.  Apps are serialized to json files, which can be easily stored and versioned in popular source control systems like Subversion, TFS, and Github.
 
+
+# Contributing
+
+Contributions are not only always welcome but the entire idea behind this list!
+
+Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
+
+
 # License
 
-[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
