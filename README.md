@@ -67,6 +67,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Mashup API Tutorials](https://community.qlik.com/thread/140982) - Great series of tutorials how to get started with Mashups.
 - [Extensions to the Mashup API](https://github.com/websy85/extended-mashup-api)
 - [Qlik Analytics for Visual Studio](https://marketplace.visualstudio.com/items?itemName=QlikDeveloperToolkit.QlikAnalyticsforVisualStudio) - Visual Studio plugin to integrate Qlik Sense visualizations into an existing web site.
+- [Handle errors in your Qlik Sense mashup](https://extendingqlik.upper88.com/handle-errors-in-your-qlik-sense-mashup/) - Handling Errors within Mashups.
 
 ## Visualization API
 
