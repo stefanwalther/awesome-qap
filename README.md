@@ -93,6 +93,7 @@ Some collections of Widgets:
 
 - [Qlik Sense Extension Tutorial](https://github.com/stefanwalther/qliksense-extension-tutorial) - Living tutorial on how to create visualization extensions, including sample code.
 - [Qlik Sense Extension with D3](http://www.axisgroup.com/tutorial-how-to-build-a-qlik-sense-extension-with-d3/) - Tutorial: How to Build a Qlik Sense Extension with D3.
+- [Exporting Qlik Sense extensions to Powerpoint and PDF](https://extendingqlik.upper88.com/exporting-qlik-sense-extensions-to-powerpoint-and-pdf/) - How to enable export to PowerPoint & PDF in visualization extensions.
 - [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions.
 - [Using Bootstrap CSS in Qlik Sense Visualization Extensions](http://qliksite.io/qlik-sense/using-bootstrap-css-qliksense-visualization-extensions/) - How to prevent clashes between Qlik Sense' CSS files and those from Bootstrap.
 - [Lasso filtering](http://www.axisgroup.com/lasso-filtering-in-qlik-sense-extensions/) - Lasso filtering in Qlik Sense Visualization Extensions.
