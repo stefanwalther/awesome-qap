@@ -42,14 +42,14 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [On demand app generation](https://github.com/websy85/on-demand-app-gen) - A simple On-demand app generation extension for Qlik Sense.
 - [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation.
 - [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template.
-- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch.
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense.
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense.
-- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation
-- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template
-- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
-- [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
-- [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
+- [app-on-demand](https://github.com/bardess/app-on-demand) - On demand app generation.
+- [architeqt](https://github.com/mindspank/architeqt) - Generated Qlik Sense apps from a template.
+- [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch.
+- [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense.
+- [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense.
 - [Introduction to On Demand Apps](https://extendingqlik.upper88.com/qlik-sense-on-demand-apps/) - Introduction to On Demand Apps by Erik Wetterberg.
 
 ## Engine API
@@ -87,7 +87,7 @@ Some collections of Widgets:
 
 ## Capability APIs
 
-- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack    
+- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack.
 
 ## Building Visualization Extensions
 
@@ -105,9 +105,9 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
-- [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker
+- [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
-- [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental)
+- [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental).
 - [xTableBox](https://github.com/ludberg/xTableBox) - Display all columns of a table, very usefull during the data-modelling process.
 
 ## Server Side Extensions (SSE) / Advanced Analytics (AAI
