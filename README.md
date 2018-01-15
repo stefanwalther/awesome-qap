@@ -160,6 +160,8 @@ A random selection of visualization extensions, you'lll find much more on [branc
 
 - [SenseOps](https://senseops.rocks) - Qlik Sense + DevOps = SenseOps. Thoughts on best practices for using Sense in the enterprise.
 - [Butler SOS](https://github.com/mountaindude/butler-sos) - Grafana powered real-time operational dashboards for Qlik Sense enterprise.
+- [Butler CW](https://github.com/mountaindude/butler-cw) - Flexible cache warming for Qlik Sense. Apps can be loaded on schedule or with desired frequency into QIX engine on specific servers, with an option to also pre-calculate all objects on all sheets. This can dramatically improve the perceived app load times and responsiveness seen by end users.  
+- [Qlik Sense app duplicator](https://github.com/mountaindude/sense-template-app-duplicate) - A Node.js microservice is combined with a web frontend and Sense apps tagged as templates in the QMC. The result is a tool that allows users to create new Sense apps within seconds, where the apps then also adhere to the coding standards implemented in the template apps. Saves time and improves app quality.
 
 ## .NET SDK
 
