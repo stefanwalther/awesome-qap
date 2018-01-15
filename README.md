@@ -50,7 +50,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Qlik ODAG Elastic Search](https://github.com/pouc/qlik-odag-elastic-search) - Generated Qlik Sense apps from ElasticSearch
 - [QlikSocial](https://github.com/johsund/QlikSocial) - Social Media on demand app generator for Qlik Sense
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense
-
+- [Introduction to On Demand Apps](https://extendingqlik.upper88.com/qlik-sense-on-demand-apps/) - Introduction to On Demand Apps by Erik Wetterberg.
 
 ## Engine API
 
