@@ -116,6 +116,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [deltaViz self service dashboard](https://github.com/yblake/deltaViz) - Dashboard extension.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [Qlik Sense 2 Dimensional Heatmap](https://github.com/ralfbecher/QlikSense_Extension_2DimHeatmap) - D3 based colored tile matrix.
+- [Qlik Sense interactve Timeline](https://github.com/ralfbecher/QlikSense_Extension_Timeline) - Timeline chart.
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [qsVariable](https://github.com/erikwett/qsVariable) - Sense Variable extension.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
