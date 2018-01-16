@@ -107,6 +107,7 @@ Some collections of Widgets:
 ## Visualization Extensions
 A selection of the most popular or interesting visualization extensions, you'lll find much more on [branch.qlik.com]http://branch.qlik.com/#!/project).
 
+- [Climber Cards](https://github.com/ClimberAB/ClimberCards) - Table extension with cards as cells.
 - [Climber Custom Report](https://github.com/ClimberAB/ClimberCustomReport) - Create custom reports in Qlik Sense.
 - [Climber KPI](https://github.com/ClimberAB/ClimberKPI) - Create nicely formatted KPI objects with background trends.
 - [Climber Selection Bar](https://github.com/ClimberAB/ClimberSelectionBar) - Horizontal selection bar with pre-selected values.
