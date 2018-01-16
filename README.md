@@ -105,8 +105,9 @@ Some collections of Widgets:
 - [Qlik-Sense-D3-Visualization-Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A library of d3 visualizations housed in 1 Qlik Sense extension.
 
 ## Visualization Extensions
-A random selection of visualization extensions, you'lll find much more on [branch](http://branch.qlik.com).
+A selection of the most popular or interesting visualization extensions, you'lll find much more on [branch.qlik.com]http://branch.qlik.com/#!/project).
 
+- [Climber Custom Report](https://github.com/ClimberAB/ClimberCustomReport) - Create custom reports in Qlik Sense.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
