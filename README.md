@@ -116,6 +116,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [qsVariable](https://github.com/erikwett/qsVariable) - Sense Variable extension.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
+- [SenseSankey](https://github.com/xavierlp/SenseSankey) - Sankey Chart.
 - [Sheet Navigation + Actions for Qlik Sense](https://github.com/stefanwalther/sense-navigation) - Add buttons with action/macros to Qlik Sense.
 - [Simple KPI](https://github.com/alner/qsSimpleKPI) - Create nicely formatted KPI objects.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
