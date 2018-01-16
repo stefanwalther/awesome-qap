@@ -125,6 +125,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [SenseSankey](https://github.com/xavierlp/SenseSankey) - Sankey Chart.
 - [Sheet Navigation + Actions for Qlik Sense](https://github.com/stefanwalther/sense-navigation) - Add buttons with action/macros to Qlik Sense.
 - [Simple KPI](https://github.com/alner/qsSimpleKPI) - Create nicely formatted KPI objects.
+- [SVG Map Extension](https://github.com/brianwmunz/svgReader-QV11) - Visualizing data on an image or map.
 - [Tabbed Container Extension](https://github.com/dfarache/Tabbed-Container-Extension) - A Qlik Extension that groups Sense objects in a container and displays tabs as a way of navigating through them.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
 - [Word Cloud for Sense](https://github.com/cleveranjos/br.com.clever.wordcloud) - Word Cloud extension.
