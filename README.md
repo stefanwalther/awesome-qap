@@ -92,6 +92,7 @@ Some collections of Widgets:
 
 ## Building Visualization Extensions
 
+- [Accessing system data and variables in a Qlik Sense extension](http://extendingqlik.upper88.com/accessing-system-data-and-variables-in-a-qlik-sense-extension/) - Erik Wetterberg elaborates on the most efficient way to get access to system data.
 - [D3 & Visualization Extensions](https://community.qlik.com/docs/DOC-16346) - Tutorial on using D3 in Qlik Sense Visualization Extensions.
 - [ES6, Babel, Webpack & GulpJS](https://github.com/alner/NewQlikSenseVisualizationTemplate) - Template for developing visualization extensions, using ES6, Babel, Webpack & GulpJS).
 - [Exporting Qlik Sense extensions to Powerpoint and PDF](https://extendingqlik.upper88.com/exporting-qlik-sense-extensions-to-powerpoint-and-pdf/) - How to enable export to PowerPoint & PDF in visualization extensions.
