@@ -117,6 +117,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [PL Smart Pivot](https://github.com/iviasensio/PLSmartPivot) - Improved Reporting Extension.
 - [Qlik Sense 2 Dimensional Heatmap](https://github.com/ralfbecher/QlikSense_Extension_2DimHeatmap) - D3 based colored tile matrix.
+- [Qlik Sense D3 Scatter Plot Chart](https://github.com/paulosoaresf/qlik-sense-d3-scatter-plot-chart) - Scatter Plot Chart.
 - [Qlik Sense interactve Timeline](https://github.com/ralfbecher/QlikSense_Extension_Timeline) - Timeline chart.
 - [Qlik Sense Reload Button](https://github.com/mhamano/Qlik-Sense-Reload-Button) - Execute a load script from within an extension.
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
