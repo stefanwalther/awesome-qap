@@ -111,6 +111,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Climber Custom Report](https://github.com/ClimberAB/ClimberCustomReport) - Create custom reports in Qlik Sense.
 - [Climber KPI](https://github.com/ClimberAB/ClimberKPI) - Create nicely formatted KPI objects with background trends.
 - [Climber Selection Bar](https://github.com/ClimberAB/ClimberSelectionBar) - Horizontal selection bar with pre-selected values.
+- [D3 Visualization Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A single extension that hosts 30 example charts from the d3 gallery..
 - [deltaViz self service dashboard](https://github.com/yblake/deltaViz) - Dashboard extension.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
