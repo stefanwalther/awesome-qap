@@ -115,6 +115,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [D3 Visualization Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A single extension that hosts 30 example charts from the d3 gallery..
 - [deltaViz self service dashboard](https://github.com/yblake/deltaViz) - Dashboard extension.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
+- [PL Smart Pivot](https://github.com/iviasensio/PLSmartPivot) - Improved Reporting Extension.
 - [Qlik Sense 2 Dimensional Heatmap](https://github.com/ralfbecher/QlikSense_Extension_2DimHeatmap) - D3 based colored tile matrix.
 - [Qlik Sense interactve Timeline](https://github.com/ralfbecher/QlikSense_Extension_Timeline) - Timeline chart.
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
