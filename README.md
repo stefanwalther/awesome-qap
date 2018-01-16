@@ -112,6 +112,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Climber Selection Bar](https://github.com/ClimberAB/ClimberSelectionBar) - Horizontal selection bar with pre-selected values.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
+- [qsVariable](https://github.com/erikwett/qsVariable) - Sense Variable extension.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
 - [Simple KPI](https://github.com/alner/qsSimpleKPI) - Create nicely formatted KPI objects.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
