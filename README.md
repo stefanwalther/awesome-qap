@@ -109,6 +109,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 
 - [Climber Custom Report](https://github.com/ClimberAB/ClimberCustomReport) - Create custom reports in Qlik Sense.
 - [Climber KPI](https://github.com/ClimberAB/ClimberKPI) - Create nicely formatted KPI objects with background trends.
+- [Climber Selection Bar](https://github.com/ClimberAB/ClimberSelectionBar) - Horizontal selection bar with pre-selected values.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
