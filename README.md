@@ -114,6 +114,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [D3 Visualization Library](https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library) - A single extension that hosts 30 example charts from the d3 gallery..
 - [deltaViz self service dashboard](https://github.com/yblake/deltaViz) - Dashboard extension.
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
+- [Qlik Sense 2 Dimensional Heatmap](https://github.com/ralfbecher/QlikSense_Extension_2DimHeatmap) - D3 based colored tile matrix.
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [qsVariable](https://github.com/erikwett/qsVariable) - Sense Variable extension.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
