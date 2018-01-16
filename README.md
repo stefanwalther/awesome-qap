@@ -111,6 +111,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Google Annotation Chart](https://github.com/yianni-ververis/google-annotation-chart)
 - [qse-mgoimagegrid](https://github.com/murraygm/qse-mgoimagegrid) - Display images in a grid.
 - [SenseDateRangePicker](https://github.com/NOD507/SenseDateRangePicker) - Sense Date Range Picker.
+- [Simple KPI](https://github.com/alner/qsSimpleKPI) - Create nicely formatted KPI objects.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
 - [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental).
 - [xTableBox](https://github.com/ludberg/xTableBox) - Display all columns of a table, very usefull during the data-modelling process.
