@@ -125,6 +125,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Simple KPI](https://github.com/alner/qsSimpleKPI) - Create nicely formatted KPI objects.
 - [Tabbed Container Extension](https://github.com/dfarache/Tabbed-Container-Extension) - A Qlik Extension that groups Sense objects in a container and displays tabs as a way of navigating through them.
 - [Waterfall extension](https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall) - Waterfall extension based on amCharts.
+- [Word Cloud for Sense](https://github.com/cleveranjos/br.com.clever.wordcloud) - Word Cloud extension.
 - [xGridResizer](https://github.com/ludberg/xGridResizer) - This extension lets you resize the grid of a sheet in Qlik Sense. (Attention: absolutely not supported and very experimental).
 - [xTableBox](https://github.com/ludberg/xTableBox) - Display all columns of a table, very usefull during the data-modelling process.
 
