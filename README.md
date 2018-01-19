@@ -6,11 +6,11 @@ A collection of awesome resources related to several Qlik Sense integration topi
 	- [Integration Overview](#integration-overview)
 	- [Solutions built on top of QAP](#solutions)
 		- [On Demand App Generation](#on-demand-app-generation)
+	- [Capability APIs](#capability-apis)
 	- [Engine API](#engine-api)
 	- [Mashup API](#mashup-api)
 	- [Visualization API](#visualization-api)
 	- [Widget Libraries](#widget-libraries)
-	- [Capability APIs](#capability-apis)
 	- [Building Visualization Extensions](#building-visualization-extensions)
 	- [Visualization Extensions](#visualization-extensions)
 	- [Server Side Extensions / Advanced Analytics](#server-side-extensions-sse--advanced-analytics-aai)
@@ -52,6 +52,11 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 - [Qlik Data Concierge](https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge) - A self-service solution for non-technical BEx users based on Qlik Sense.
 - [Introduction to On Demand Apps](https://extendingqlik.upper88.com/qlik-sense-on-demand-apps/) - Introduction to On Demand Apps by Erik Wetterberg.
 
+## Capability APIs
+
+- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack.
+
+
 ## Engine API
 
 - [Introduction to Generic Object](https://community.qlik.com/docs/DOC-7732) - Very detailed explanation of the Generic Object, which is the foundation for all visualizations in Qlik Sense.
@@ -86,9 +91,6 @@ Some collections of Widgets:
 - [SenseUI-Widgets](https://github.com/yianni-ververis/SenseUI-WidgetLibrary) - The Widget library created by Qlik's demo team.
 - [Themed Widgets](https://github.com/newmans99/Themed-Widgets) - Qlik Sense UI Widgets supporting themes.
 
-## Capability APIs
-
-- [WebPack-CapabilityAPIs](https://github.com/mindspank/webpack-capabilitiesapi) - Examples how to use the Capability APIs in combination with WebPack.
 
 ## Building Visualization Extensions
 
