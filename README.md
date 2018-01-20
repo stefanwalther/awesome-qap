@@ -219,6 +219,7 @@ A collection of management console utilities for use with Qlik Sense.
 
 ## Web Development
 
+- [Qlik React Starter](https://community.qlik.com/blogs/qlikviewdesignblog/2018/01/19/starter-project-for-developing-qap-powered-apps-with-react-and-enigmajs) - Starter template for creating projects powered by Qlik using enigma.js and React.
 
 # Contributing
 
