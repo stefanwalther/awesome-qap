@@ -102,6 +102,7 @@ Solutions built on top of Qlik Analytics Platform / leveraging APIs of QAP:
 
 - [Butler for Qlik Sense](https://github.com/mountaindude/butler) - Connectivity proxy for Sense, features such as posting to Slack from load script, real-time forwarding of reload failures and user login/logout events to Slack and MQTT, and others.
 - [Butler MQTT](https://github.com/mountaindude/butler-mqtt) - Slimmed down version of Butler, only including the REST-to-MQTT bridge. useful for creating real-time script reload dashboards.
+- [halyard.js](https://github.com/qlik-oss/halyard.js) - JavaScript library for generating Qlik Load Scripts using an abstracted API (Official Qlik OSS project).
 - [Qlik Connector to Execute PS Scripts](https://github.com/konne/qlik-connector-psexecute) - A Qlik Connector to execute PowerShell scripts.
 
 ## DevOps
