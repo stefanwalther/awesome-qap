@@ -172,6 +172,7 @@ A selection of the most popular or interesting visualization extensions, you'lll
 - [Qlik-Cli](https://github.com/ahaydon/Qlik-Cli) - PowerShell Cmdlets to talk to the QRS API.
 - [QlikSensePowerShell](https://github.com/JoeBickley/QlikSensePowerShell) - A powershell plugin with common Qlik Sense automation functions.
 - [qrs](https://github.com/stefanwalther/qrs) - Node.js library to communicate with Qlik Sense Repository Service (QRS) API.
+- [qrs-interact](https://github.com/eapowertools/qrs-interact) - QRS Interact is a simple javascript library that allows users to send queries to the Qlik Sense Repository Service.
 
 
 ### Qlik Sense QMC Utilities
