@@ -40,6 +40,7 @@ A collection of awesome resources related to several Qlik Sense integration topi
 	- [Security](#security)
 	- [Server Side Extensions / Advanced Analytics](#server-side-extensions-sse--advanced-analytics-aai)
 	- [Web Development](#web-development)
+- [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -242,12 +243,17 @@ A collection of management console utilities for use with Qlik Sense.
 
 - [Qlik React Starter](https://community.qlik.com/blogs/qlikviewdesignblog/2018/01/19/starter-project-for-developing-qap-powered-apps-with-react-and-enigmajs) - Starter template for creating projects powered by Qlik using enigma.js and React.
 
+# Related Awesome Lists
+
+- [awesome-picasso.js](https://github.com/stefanwalther/awesome-picasso.js) - A curated list of awesome resources for the awesome picasso.js library.
+
+
 # Contributing
 
 Contributions are not only always welcome but the entire idea behind this list!
+**There is no need to install any tool, to understand git, just use your browser!**
 
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
-
 
 # License
 
