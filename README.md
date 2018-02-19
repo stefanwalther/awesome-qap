@@ -6,7 +6,7 @@
 A collection of awesome resources related to several Qlik Sense integration topics resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 <h1 align="center">
-	<img width="800" src="https://cdn.rawgit.com/stefanwalther/awesome-qap/master/media/awesome-qap.png" alt="Awesome Qlik Analytics Platform (QAP)">
+	<img width="800" src="https://raw.githubusercontent.com/stefanwalther/awesome-qap/master/media/awesome-qap.png" alt="Awesome Qlik Analytics Platform (QAP)">
 	<br>
 	<br>
 </h1>
