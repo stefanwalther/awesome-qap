@@ -10,4 +10,4 @@ jobs:
       - run:
           name: install-awesome-bot
           command: 'gem install awesome_bot'
-      - run: awesome_bot README.md --allow-dupe --allow-ssl
+      - run: awesome_bot README.md --allow-dupe --allow-ssl --allow-redirect
