@@ -232,6 +232,7 @@ A collection of management console utilities for use with Qlik Sense.
 
 ### SSE/AAI - Plugins
 - [Qlik Sense Analytic Extension for Security](https://github.com/flautrup/SecSSE) - PoC to show how server side extensions can be used to extend the scripting of Qlik Sense with aditional security functions to protect customer information.
+- [Python data science tools for Qlik](https://github.com/nabeel-oz/qlik-py-tools) - Provides a server side extension (SSE) for Qlik Sense built using Python. The intention is to provide a set of functions for data science that can be used as expressions in Qlik.
 
 ### SSE/AAI - Solutions
 - [AAI Expression Builder](https://github.com/AnalyticsEarth/AAIExpressionBuilder) - The AAI Advanced Analytics Expression Builder is a Qlik Sense extension used to create advanced analytics expressions as master items and wrap these in to a prebuilt visualization.
